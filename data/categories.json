@@ -1,26 +1,32 @@
 [
   {
     "id": "01",
-    "name": "Web development"
+    "name": "Web development",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   },
   {
     "id": "02",
-    "name": "Data science"
+    "name": "Data science",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   },
   {
     "id": "03",
-    "name": "Digital marketing"
+    "name": "Digital marketing",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   },
   {
     "id": "04",
-    "name": "App development"
+    "name": "App development",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   },
   {
     "id": "05",
-    "name": "Graphics design"
+    "name": "Graphics design",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   },
   {
     "id": "06",
-    "name": "UI/UX design"
+    "name": "UI/UX design",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png"
   }
 ]
