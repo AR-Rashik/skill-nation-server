@@ -22,6 +22,12 @@ app.get('/courses/:id', (req, res) => {
   res.send(selectedCategory);
 })
 
+app.get('/checkout/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedCategory = course.find(c => c.category_id === id);
+  res.send(selectedCategory);
+})
+
 app.listen(port, () => {
   console.log(`skill nation server running on the port ${port}`)
 });
