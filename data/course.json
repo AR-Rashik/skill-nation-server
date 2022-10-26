@@ -2,97 +2,91 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 488,
-    "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "price": 10000,
+    "title": "Web development",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://i.pinimg.com/736x/c6/2f/d5/c62fd5639e15e77e61ced1f3d75553c9.jpg",
+    "details": "A web developer contributes to the second stage of creating a website. When the entire structure and expectations are set, a web developer can start putting things into practice. And even here, you can have different types of web developers as well. When hiring or becoming a web developer, you can take your pick between these three options:Frontend Developer – If you’re hiring a frontend developer, they will take charge of the way your website looks. The main languages that are used by frontend developers are HTML, CSS and Javascript. Some work with CMS platforms as well where they can take care of the frontend of a website using themes and builders. In this case, a lot of the coding work is taken out of hands but knowledge of CSS, in particular, is still required to be able to make tweaks whenever needed.Backend Developer – A backend developer, on the other hand, takes care of the backend of a website. Making everything work functionally is the main priority. Backend developers have very code-intensive days and need to make everything work with the frontend of a website. Often, this includes making an eCommerce website work or have membership websites up and running.Full Stack Developer – Full stack developers are the best of both worlds. They take care of both the backend and frontend of a website. In many cases, this makes the workflow easier."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "total_view": 388,
+    "price": 8000,
+    "title": "Data science",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+    "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.Data science is a concept to unify statistics, data analysis, informatics, and their related methods in order to understand and analyses actual phenomena with data.[4] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[3] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a fourth paradigm of science (empirical, theoretical, computational, and now data-driven) and asserted that everything about science is changing because of the impact of information technology and the data deluge."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
     "category_id": "03",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 888,
     "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "title": "Digital marketing",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+    "details": "The term digital marketing refers to the use of digital channels to market products and services in order to reach consumers. This type of marketing involves the use of websites, mobile devices, social media, search engines, and other similar channels. Digital marketing became popular with the advent of the internet in the 1990s. Digital marketing involves some of the same principles as traditional marketing and is often considered a new way for companies to approach consumers and understand their behavior. Companies often combine traditional and digital marketing techniques in their strategies. Marketing refers to any activities that a company uses to promote its products and services and improve its market share. In order to be successful, marketing requires a combination of advertising savvy, sales, and the ability to deliver goods to end-users. This is normally undertaken by specific professionals or marketers who can work internally (for companies) or externally with other marketing firms."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "price": 15000,
+    "title": "App development",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=2000",
+    "details": "Mobile applications have become big business in recent years; in fact, statistics show that 21 percent of millennials open an app more than 50 times per day. While there is no denying the popularity of apps, the sheer number of these custom software applications can make it difficult to see results when creating your own apps. As of August 2022, the Apple App Store has 4.567 million apps and games available, and the number of apps on the Google Play Store reached 3.57 million by July 2022. As such, it makes sense that your app will have to stand out if you want a lot of people to download it. In the end, it all comes down to app development. Mobile applications have become big business in recent years; in fact, statistics show that 21 percent of millennials open an app more than 50 times per day. While there is no denying the popularity of apps, the sheer number of these custom software applications can make it difficult to see results when creating your own apps. As of August 2022, the Apple App Store has 4.567 million apps and games available, and the number of apps on the Google Play Store reached 3.57 million by July 2022. As such, it makes sense that your app will have to stand out if you want a lot of people to download it. In the end, it all comes down to app development."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
     "category_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "total_view": 988,
+    "price": 12000,
+    "title": "Graphics design",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://img.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?w=2000",
+    "details": "When you think of graphic design, do you think of artistic advertisements? Eye-grabbing graphics on websites? Stunningly arranged spreads in magazines? While these examples certainly fit under the graphic design definition, the term encompasses a lot: posters, ideographic, book covers, product labels, logos, business cards, signs, website layouts, mobile apps, software interfaces—the list goes on. So what is graphic design, exactly? Listing these graphic design examples is a good start, but it doesn’t paint the full picture. While covering the details and intricacies of the entire graphic design field might not be possible in one article, this high-level overview will help you better understand this creative career field. Graphic design can be used by companies to promote and sell products through advertising, by websites to convey complicated information in a digestible way through ideographic, or by businesses to develop an identity through branding, among other things."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "price": 5000,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "total_view": 688,
+    "price": 8000,
+    "title": "UI/UX design",
     "teacher": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://webandcrafts.com/blog/wp-content/uploads/2019/12/ux_ui-01-3.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://webandcrafts.com/blog/wp-content/uploads/2019/12/ux_ui-01-3.jpg",
+    "details": "Simply put, user experience design is the process of planning the experience a person has when they interact with a product. UX design focuses on the interaction that a human user has with everyday products and services. The goal of UX design is to make using these products and services, both digital or physical, easy, logical, and fun. UI (User Interface) design is the user-centered approach to designing the aesthetics of a digital product. In essence, they create the look and feel of a website or application’s user interface. An interface is the graphical layout of the application. These interfaces should not only be functional, but they should be easy to use and visually appealing. UI designers are focused on visual touchpoints that let users interact with a product. This can include typography, color palettes, buttons, animation, and other imagery. Think about all the things you might do on an app – slide to delete, pull down to refresh, enter text, etc. All of these visual elements or animations that allow you to interact with the app must be designed. There’s a lot of similarities between UI and graphic design, but they are not the same thing."
   }
 ]
